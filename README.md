@@ -8,6 +8,7 @@
 
 #### 1. Install [Vercel CLI](https://vercel.com/docs/cli)
 
+
 ```bash
 npm i -g vercel
 ```
