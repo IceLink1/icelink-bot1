@@ -6,8 +6,6 @@
 
 ### Run locally
 
-
-
 #### 1. Install [Vercel CLI](https://vercel.com/docs/cli)
 
 ```bash
